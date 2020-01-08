@@ -2,7 +2,7 @@
 
  ## 实现效果
 
-![img](前端小学期-前端组件设计/img1.png)
+![img](img1.png)
 
 <center>实现效果</center>
 
@@ -10,7 +10,7 @@
 
 
 
-![img](前端小学期-前端组件设计/img2.png)
+![img](img2.png)
 
 <center>目标效果</center>
 
